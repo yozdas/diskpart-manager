@@ -30,7 +30,7 @@ DiskPart Manager, Windows'un yerleşik `DISKPART` aracını kullanarak disk form
 ### Nasıl Kullanılır
 1. Scripti indirin:
 ```bash
-git clone https://github.com/sizin-kullanici-adiniz/diskpart-manager.git
+git clone https://github.com/yozdas/diskpart-manager.git
 ```
 
 2. Yönetici olarak çalıştırın:
@@ -99,7 +99,7 @@ DiskPart Manager is a batch script that simplifies disk formatting and attribute
 ### How to Use
 1. Download the script:
 ```bash
-git clone https://github.com/sizin-kullanici-adiniz/diskpart-manager.git
+git clone https://github.com/yozdas/diskpart-manager.git
 ```
 
 2. Run as administrator:
