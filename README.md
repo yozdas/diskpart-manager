@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Unmaintained-orange)
 
-[For English Go To](#english)
+[For English Go To English Part](#english)
 
 ## Türkçe
 
