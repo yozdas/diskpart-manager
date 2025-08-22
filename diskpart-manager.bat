@@ -18,17 +18,17 @@ echo.
 echo 1. List Disks
 echo 2. Format Disk
 echo 3. Change Attributes
-echo 4. Exit
+echo 0. Exit
 echo.
 echo Press CTRL+C at any time to quit
 echo.
-set /p choice="Enter your choice (1-4): "
+set /p choice="Enter your choice (0-3): "
 
 if "%choice%"=="1" goto list_disks
 if "%choice%"=="2" goto format_disk
 if "%choice%"=="3" goto change_attr
-if "%choice%"=="4" exit
-echo Invalid selection! Please enter 1-4.
+if "%choice%"=="0" exit
+echo Invalid selection! Please enter 0-3.
 timeout /t 2 >nul
 goto main
 
